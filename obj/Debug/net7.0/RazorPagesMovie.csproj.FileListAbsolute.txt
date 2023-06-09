@@ -278,3 +278,5 @@ C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net7.0\r
 C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.Properties.Resources.resources
+C:\Users\Phoenix\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.GenerateResource.cache
